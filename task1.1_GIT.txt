@@ -1,0 +1,19 @@
+b66a869 HEAD@{0}: merge develop: Fast-forward
+4b12266 HEAD@{1}: checkout: moving from develop to main
+b66a869 HEAD@{2}: commit (merge): resolve conflict images to develop
+1fb5a95 HEAD@{3}: merge images: Fast-forward
+0b5a983 HEAD@{4}: checkout: moving from styles to develop
+f94e727 HEAD@{5}: commit: add style to html
+797da5f HEAD@{6}: checkout: moving from images to styles
+1fb5a95 HEAD@{7}: checkout: moving from styles to images
+797da5f HEAD@{8}: commit: add styles
+0b5a983 HEAD@{9}: checkout: moving from develop to styles
+0b5a983 HEAD@{10}: checkout: moving from images to develop
+1fb5a95 HEAD@{11}: commit: add images
+0b5a983 HEAD@{12}: checkout: moving from styles to images
+0b5a983 HEAD@{13}: checkout: moving from images to styles
+0b5a983 HEAD@{14}: checkout: moving from develop to images
+0b5a983 HEAD@{15}: commit: add index.html file
+4b12266 HEAD@{16}: checkout: moving from main to develop
+4b12266 HEAD@{17}: commit: initial commit
+71696e4 HEAD@{18}: clone: from https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1.git
