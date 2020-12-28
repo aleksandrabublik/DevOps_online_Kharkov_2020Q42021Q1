@@ -19,7 +19,7 @@ Merge two new branches into develop using git merge command. Resolve conflict if
   
 Execute command “git reflog“ and save it content somewhere (not in repository) with filename “task1.1_GIT.txt”.
 Add task1.1_GIT.txt to your local repo in then Push it in GitHub repo.
-  ![Image alt] (Screenshots/https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module1/task1.1/Screenshots/Reflog%20and%20push.png)
+  ![Image alt] (/https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module1/task1.1/Screenshots/Reflog%20and%20push.png)
   
   ![alt tag] (https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/task1.1_GIT.txt)
   
