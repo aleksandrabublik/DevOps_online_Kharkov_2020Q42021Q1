@@ -1,6 +1,9 @@
 # Module1
 
-* Installed settings ![Alt text] (https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module1/task1.1/Screenshots/List%20config.png)
+* Installed settings 
+![Alt Image] (DevOps_online_Kharkov_2020Q42021Q1/Module1/task1.1/Screenshots/List config.png)
+![Alt Image] (/Module1/task1.1/Screenshots/List config.png)
+![Alt Image] (Module1/task1.1/Screenshots/List config.png)
 
 * Create new private repo on GitHub. Repo name: DevOps_online__ Example: DevOps_online_Dnipro_2020Q42021Q1 ![Image alt] (https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module1/task1.1/Screenshots/Private%20rerository.png)
 
