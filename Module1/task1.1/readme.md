@@ -28,7 +28,7 @@
 
 
 ![alt tag] (https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/task1.1_GIT.txt)
-![Image alt] (https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/task1.1_GIT.txt)
+
 
 *In this task, I learned how to work with git, namely* 
 
