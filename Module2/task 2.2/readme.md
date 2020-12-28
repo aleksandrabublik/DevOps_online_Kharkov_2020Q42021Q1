@@ -19,6 +19,7 @@ Create a snapshot of your instance to keep as a backup.
 ![Image alt] (https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module2/task%202.2/Screenshots/AWS/Ami_backup.png)
 ![alt text](https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module2/task%202.2/Screenshots/AWS/Ami_backup.png)
 
+
 Create and attach a Disk_D (EBS) to your instance to add more storage space. Create and save some file on Disk_D.
 ![Image alt] (https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module2/task%202.2/Screenshots/AWS/Create%20disk(ebs).png)
 ![alt text](https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module2/task%202.2/Screenshots/AWS/Create%20disk(ebs).png)
