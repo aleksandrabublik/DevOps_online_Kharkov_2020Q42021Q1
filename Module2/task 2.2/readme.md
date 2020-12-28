@@ -48,17 +48,19 @@ https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main
 
 
 + Launch and configure a WordPress instance with Amazon Lightsail
+ - WordPress instance in Lightsail
  https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module2/task%202.2/Screenshots/AWS/WordPress%20instance%20in%20Lightsail.png
 ![alt text](https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module2/task%202.2/Screenshots/AWS/WordPress%20instance%20in%20Lightsail.png)
 
-- WordPress instance in Lightsail
+- Administration dashboard of my WordPress website
 https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module2/task%202.2/Screenshots/AWS/Sign%20in%20to%20the%20administration%20dashboard%20of%20my%20WordPress%20website.png)
 ![alt text](https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module2/task%202.2/Screenshots/AWS/Sign%20in%20to%20the%20administration%20dashboard%20of%20my%20WordPress%20website.png)
 
-- Administration dashboard of your WordPress website
+- Static IP address and attach it to my WordPress instance
 https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module2/task%202.2/Screenshots/AWS/Public%20static%20address.png)
 ![alt text](https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module2/task%202.2/Screenshots/AWS/Public%20static%20address.png)
 
+- DNS zone and map a domain to my WordPress instance
 https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module2/task%202.2/Screenshots/AWS/DNS%20zone%20and%20map%20a%20domain%20to%20your%20WordPress%20instance.png
 ![alt text](https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module2/task%202.2/Screenshots/AWS/DNS%20zone%20and%20map%20a%20domain%20to%20your%20WordPress%20instance.png)
 
