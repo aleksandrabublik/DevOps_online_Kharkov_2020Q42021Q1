@@ -4,6 +4,10 @@
 ![alt text](https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module1/task1.1/Screenshots/List%20config.png )
  <img src="https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module1/task1.1/Screenshots/List%20config.png" width="1500" height="900" title="Github Logo">
  ![test image size]<img src="https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module1/task1.1/Screenshots/List%20config.png" width="690" height="700">
+ <p align="center">
+  <img src="https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module1/task1.1/Screenshots/List%20config.png" width="350" title="hover text">
+  <img src="https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module1/task1.1/Screenshots/List%20config.png" width="350" alt="accessibility text">
+</p>
 
 
 * Create new private repo on GitHub. Repo name: DevOps_online__ Example: DevOps_online_Dnipro_2020Q42021Q1 ![Image alt] (https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module1/task1.1/Screenshots/Private%20rerository.png)
