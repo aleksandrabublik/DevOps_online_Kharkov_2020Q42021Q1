@@ -1,6 +1,29 @@
+Installed settings
+  ![alt text] (Screenshots/List config.png)
+
+Create new private repo on GitHub.
+Repo name: DevOps_online_<City>_<year><quarter> Example: DevOps_online_Dnipro_2020Q42021Q1
+  ![alt text] (Screenshots/Private rerository.png)
+  
+Create develop branch and checkout on it.
+Create index.html empty file. Commit.
+  ![alt text] (Screenshots/Create branch and commit.png)
+  
+Go to develop branch.
+Merge two new branches into develop using git merge command. Resolve conflict if it appear. Do it in next sequence:
+•merge “images” into “develop”
+•merge “styles” into “develop”
+  ![alt text] (Screenshots/Checkout and merge.png)
+  
+Execute command “git reflog“ and save it content somewhere (not in repository) with filename “task1.1_GIT.txt”.
+Add task1.1_GIT.txt to your local repo in then Push it in GitHub repo.
+  ![alt text] (Screenshots/Reflog and push.png)
+  ![alt text] (https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/task1.1_GIT.txt)
+  
+
 
 In this task, I learned how to work with git, namely
-- how to create a strum
+- how to create branch
 - how to make a commit
 - how to merge
 - gitlog and its properties
