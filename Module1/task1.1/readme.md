@@ -11,8 +11,10 @@ Create index.html empty file. Commit.
   
 Go to develop branch.
 Merge two new branches into develop using git merge command. Resolve conflict if it appear. Do it in next sequence:
-•merge “images” into “develop”
-•merge “styles” into “develop”
+
+  •merge “images” into “develop”
+  •merge “styles” into “develop”
+  
   ![Image alt] (https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module1/task1.1/Screenshots/Checkout%20and%20merge.png)
   
 Execute command “git reflog“ and save it content somewhere (not in repository) with filename “task1.1_GIT.txt”.
