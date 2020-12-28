@@ -3,12 +3,12 @@ AWS
 
 + Launch another Linux Virtual Machine without Amazon Lightsail. It is recommended to use the t2 or t3.micro instance and the CentOS operating system.
 
- (https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module2/task%202.2/Screenshots/AWS/Screenshot%202020-12-18%20223106.png)
+ https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module2/task%202.2/Screenshots/AWS/Screenshot%202020-12-18%20223106.png)
 ![alt text](https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module2/task%202.2/Screenshots/AWS/Screenshot%202020-12-18%20223106.png)
 
 
-Create a snapshot of your instance to keep as a backup.
-![Image alt] (https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module2/task%202.2/Screenshots/AWS/Snapshot.png)
++ Create a snapshot of your instance to keep as a backup.
+ https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module2/task%202.2/Screenshots/AWS/Snapshot.png)
 ![alt text](https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module2/task%202.2/Screenshots/AWS/Snapshot.png)
 
 
