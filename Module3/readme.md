@@ -1,8 +1,9 @@
 PART 1
 1. Download MySQL server for your OS on VM.
-https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module3/Screenshots_mysql/Install.png
 2. Install MySQL server on VM.
+![Image alt] (https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module3/Screenshots_mysql/Install.png)
 3. Select a subject area and describe the database schema, (minimum 3 tables)
+![Image alt] (https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module3/Screenshots_mysql/Schema%20DB.png)
 4. Create a database on the server through the console.
 5. Fill in tables.
 6. Construct and execute SELECT operator with WHERE, GROUP BY and ORDER BY.
