@@ -2,9 +2,6 @@
 
 * Installed settings 
 ![alt text](https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module1/task1.1/Screenshots/List%20config.png )
-![alt tag](https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module1/task1.1/Screenshots/List%20config.png width="7500" height="3500" "Описание будет тут")
-![test image size]<img src="https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module1/task1.1/Screenshots/List%20config.png" width="1000" height="790">
- <img src="/task1.1/Screenshots/List%20config.pngK" width="100" height="300"/>
  <img src="https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module1/task1.1/Screenshots/List%20config.png" width="2000" height="1000" title="Github Logo">
 
 
