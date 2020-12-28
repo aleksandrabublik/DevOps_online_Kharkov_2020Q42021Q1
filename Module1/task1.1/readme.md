@@ -1,9 +1,9 @@
 # Module1
 
 * Installed settings 
-![alt text]<img src= "https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module1/task1.1/Screenshots/List%20config.png" width="100">
+![alt text](https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module1/task1.1/Screenshots/List%20config.png "Описание будет тут")
 <img src= "https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module1/task1.1/Screenshots/List%20config.png" width="100">
-(https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module1/task1.1/Screenshots/List%20config.png "Описание будет тут")
+
 * Create new private repo on GitHub. Repo name: DevOps_online__ Example: DevOps_online_Dnipro_2020Q42021Q1 ![Image alt] (https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module1/task1.1/Screenshots/Private%20rerository.png)
 
 * Create develop branch and checkout on it. Create index.html empty file. Commit. ![Alt text] (https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module1/task1.1/Screenshots/Create%20branch%20and%20commit.png)
