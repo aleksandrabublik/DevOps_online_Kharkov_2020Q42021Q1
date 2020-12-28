@@ -6,6 +6,10 @@ PART 1
 
 ![Image alt] (https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module3/Screenshots_mysql/Install2.png)
 ![alt text](https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module3/Screenshots_mysql/Install2.png)
+
+![Image alt] (https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module3/Screenshots_mysql/mysql.png)
+![alt text](https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module3/Screenshots_mysql/mysql.png)
+
 3. Select a subject area and describe the database schema, (minimum 3 tables)
 ![Image alt] (https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module3/Screenshots_mysql/Schema%20DB.png)
 ![alt text](https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module3/Screenshots_mysql/Schema%20DB.png)
