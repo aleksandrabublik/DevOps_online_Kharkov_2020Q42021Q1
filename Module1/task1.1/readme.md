@@ -7,7 +7,7 @@ Repo name: DevOps_online_<City>_<year><quarter> Example: DevOps_online_Dnipro_20
   
 Create develop branch and checkout on it.
 Create index.html empty file. Commit.
-  ![Image alt] (thttps://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module1/task1.1/Screenshots/Create%20branch%20and%20commit.png)
+  ![Image alt] (https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module1/task1.1/Screenshots/Create%20branch%20and%20commit.png)
   
 Go to develop branch.
 Merge two new branches into develop using git merge command. Resolve conflict if it appear. Do it in next sequence:
