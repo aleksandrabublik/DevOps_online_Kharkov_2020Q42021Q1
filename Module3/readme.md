@@ -7,7 +7,7 @@ PART 1
 ![Image alt] (https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module3/Screenshots_mysql/Schema%20DB.png)
 ![alt text](https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module3/Screenshots_mysql/Schema%20DB.png)
 4. Create a database on the server through the console.
-- Created a database using the command: CREATE DATABASE db_name;
+- Created a database using the command: CREATE DATABASE forum;
 - Created tables:
   - Create table users:
 ![Image alt](https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module3/Screenshots_mysql/Create%20table1.png)
@@ -40,6 +40,18 @@ PART 1
 ![alt text](https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module3/Screenshots_mysql/Add%20key.png)
 
 6. Construct and execute SELECT operator with WHERE, GROUP BY and ORDER BY.
+  + Operator WHERE
+![Image alt] (https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module3/Screenshots_mysql/operator%20WHERE.png)
+![alt text](https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module3/Screenshots_mysql/operator%20WHERE.png)
+
+  + Operator GROUP BY
+![Image alt] (https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module3/Screenshots_mysql/operator%20GROUP%20BY.png)
+![alt text](https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module3/Screenshots_mysql/operator%20GROUP%20BY.png) 
+
+  + Operator ORDER BY
+![Image alt] (hhttps://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module3/Screenshots_mysql/OPERATOR%20ORDER%20BY.png)
+![alt text](https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module3/Screenshots_mysql/OPERATOR%20ORDER%20BY.png)
+
 7. Execute other different SQL queries DDL, DML, DCL.
 8. Create a database of new users with different privileges. Connect to the database as a new user and verify that the privileges allow or deny certain actions.
 9. Make a selection from the main table DB MySQL.
