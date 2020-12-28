@@ -8,6 +8,15 @@ PART 1
 ![alt text](https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module3/Screenshots_mysql/Schema%20DB.png)
 4. Create a database on the server through the console.
 5. Fill in tables.
+Fill table users
+![Image alt] (https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module3/Screenshots_mysql/Fill%20table1.png)
+![alt text](https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module3/Screenshots_mysql/Fill%20table1.png)
+Fill table topics
+![Image alt] (https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module3/Screenshots_mysql/Fill%20table%202.png)
+![alt text](https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module3/Screenshots_mysql/Fill%20table%202.png)
+Fill table messages
+![Image alt] (https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module3/Screenshots_mysql/Fill%20table3.png)
+![alt text](https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module3/Screenshots_mysql/Fill%20table3.png)
 6. Construct and execute SELECT operator with WHERE, GROUP BY and ORDER BY.
 7. Execute other different SQL queries DDL, DML, DCL.
 8. Create a database of new users with different privileges. Connect to the database as a new user and verify that the privileges allow or deny certain actions.
@@ -15,6 +24,7 @@ PART 1
 
 
 PART 2
+
 10. Make backup of your database.
 11. Delete the table and/or part of the data in the table.
 12. Restore your database.
