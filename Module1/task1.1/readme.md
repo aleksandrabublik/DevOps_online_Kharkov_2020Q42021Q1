@@ -13,7 +13,7 @@
 
 ![Image alt] (https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module1/task1.1/Screenshots/Checkout%20and%20merge.png)
 
-* Execute command “git reflog“ and save it content somewhere (not in repository) with filename “task1.1_GIT.txt”. Add task1.1_GIT.txt to your local repo in then Push it in GitHub repo. ![Alt text] (/https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module1/task1.1/Screenshots/Reflog%20and%20push.png)
+* Execute command “git reflog“ and save it content somewhere (not in repository) with filename “task1.1_GIT.txt”. Add task1.1_GIT.txt to your local repo in then Push it in GitHub repo. ![Alt text] (https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module1/task1.1/Screenshots/Reflog%20and%20push.png)
 
 ![alt tag] (https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/task1.1_GIT.txt)
 
