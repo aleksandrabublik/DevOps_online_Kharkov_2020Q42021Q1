@@ -1,5 +1,5 @@
 Installed settings
-  ![alt text] (task1.1/Screenshots/List config.png)
+  ![Image alt] (https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/raw/main/task1.1/Screenshots/List config.png)
 
 Create new private repo on GitHub.
 Repo name: DevOps_online_<City>_<year><quarter> Example: DevOps_online_Dnipro_2020Q42021Q1
