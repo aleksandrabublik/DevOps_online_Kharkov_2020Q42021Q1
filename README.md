@@ -21,7 +21,7 @@ Repository for training Devops directions
 
 *In this task, I learned how to work with git, namely* 
 
-  -how to create branch
+  - how to create branch
   - how to make a commit
   - how to merge
   - gitlog and its properties
