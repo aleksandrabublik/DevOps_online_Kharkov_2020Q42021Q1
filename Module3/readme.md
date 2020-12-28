@@ -78,7 +78,11 @@ Information about table
 ![alt text]( https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module3/Screenshots_mysql/show%20privileges.png)
 
 9. Make a selection from the main table DB MySQL.
+![Image alt] ( https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module3/Screenshots_mysql/9.1.png)
+![alt text]( https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module3/Screenshots_mysql/9.1.png)
 
+![Image alt] ( https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module3/Screenshots_mysql/9.2.png)
+![alt text]( https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module3/Screenshots_mysql/9.2.png)
 
 PART 2
 
