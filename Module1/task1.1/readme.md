@@ -5,6 +5,7 @@
 ![alt text] (/Module1/task1.1/Screenshots/List config.png)
 ![alt text] (Module1/task1.1/Screenshots/List config.png)
 ![alt text](Module1/task1.1screenshots/List config.png "Описание будет тут")
+![alt tag](https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module1/task1.1/Screenshots/List%20config.png "Описание будет тут")​
 
 * Create new private repo on GitHub. Repo name: DevOps_online__ Example: DevOps_online_Dnipro_2020Q42021Q1 ![Image alt] (https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module1/task1.1/Screenshots/Private%20rerository.png)
 
