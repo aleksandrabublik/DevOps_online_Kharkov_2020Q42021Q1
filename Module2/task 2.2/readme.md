@@ -7,7 +7,7 @@ Launch another Linux Virtual Machine without Amazon Lightsail. It is recommended
 ![alt text](https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module2/task%202.2/Screenshots/AWS/Screenshot%202020-12-18%20223106.png)
 
 
-6. Create a snapshot of your instance to keep as a backup.
+Create a snapshot of your instance to keep as a backup.
 ![Image alt] (https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module2/task%202.2/Screenshots/AWS/Snapshot.png)
 ![alt text](https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module2/task%202.2/Screenshots/AWS/Snapshot.png)
 
@@ -15,11 +15,11 @@ Launch another Linux Virtual Machine without Amazon Lightsail. It is recommended
 ![Image alt] (https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module2/task%202.2/Screenshots/AWS/Snapshot2.png)
 ![alt text](https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module2/task%202.2/Screenshots/AWS/Snapshot2.png)
 
+
 ![Image alt] (https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module2/task%202.2/Screenshots/AWS/Ami_backup.png)
-![alt text](hhttps://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module2/task%202.2/Screenshots/AWS/Ami_backup.png)
+![alt text](https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module2/task%202.2/Screenshots/AWS/Ami_backup.png)
 
-
-7. Create and attach a Disk_D (EBS) to your instance to add more storage space. Create and save some file on Disk_D.
+Create and attach a Disk_D (EBS) to your instance to add more storage space. Create and save some file on Disk_D.
 ![Image alt] (https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module2/task%202.2/Screenshots/AWS/Create%20disk(ebs).png)
 ![alt text](https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module2/task%202.2/Screenshots/AWS/Create%20disk(ebs).png)
 
@@ -31,7 +31,7 @@ Launch another Linux Virtual Machine without Amazon Lightsail. It is recommended
 ![alt text](https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module2/task%202.2/Screenshots/AWS/Mount2.png)
 
 
-8. Launch the third instance from backup.
+Launch the third instance from backup.
 
 ![Image alt] (https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module2/task%202.2/Screenshots/AWS/Lauch%20backup.png)
 ![alt text](https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module2/task%202.2/Screenshots/AWS/Lauch%20backup.png)
@@ -41,7 +41,7 @@ Launch another Linux Virtual Machine without Amazon Lightsail. It is recommended
 ![alt text](https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module2/task%202.2/Screenshots/AWS/List_volumes.png)
 
 
-9. Detach Disk_D from the 2nd instance and attach disk_D to the new instance.
+Detach Disk_D from the 2nd instance and attach disk_D to the new instance.
 ![Image alt] (https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module2/task%202.2/Screenshots/AWS/Detach_attach2.png)
 ![alt text](https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module2/task%202.2/Screenshots/AWS/Detach_attach2.png)
 
