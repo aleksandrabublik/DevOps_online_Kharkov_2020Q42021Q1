@@ -111,7 +111,12 @@ PART 2
 
 
 13. Transfer your local database to RDS AWS.
+![Image alt] (https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module3/Screenshots_mysql/DB%20on%20AWS.png)
+![alt text](https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module3/Screenshots_mysql/DB%20on%20AWS.png)
 14. Connect to your database.
+![Image alt] (https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module3/Screenshots_mysql/Transfer%20Aws.png)
+![alt text](https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module3/Screenshots_mysql/Transfer%20Aws.png)
+
 15. Execute SELECT operator similar step 6.
 16. Create the dump of your database.
 ![Image alt] (https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module3/Screenshots_mysql/Dump%20.png)
@@ -121,8 +126,7 @@ PART 2
 PART 3
 
 17. Create an Amazon DynamoDB table
-![Image alt] (https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module3/Screenshots_mysql/DB%20on%20AWS.png)
-![alt text](https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module3/Screenshots_mysql/DB%20on%20AWS.png)
+
 
 18. Enter data into an Amazon DynamoDB table.
 ![Image alt] (https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module3/Screenshots_mysql/DynamoDB.png)
