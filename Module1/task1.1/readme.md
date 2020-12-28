@@ -1,7 +1,7 @@
 # Module1
 
 * Installed settings 
-![alt image](https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module1/task1.1/Screenshots/List%20config.png "Описание будет тут")
+![alt image](https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module1/task1.1/Screenshots/List%20config.png width="100" height="300""Описание будет тут")
 <img src="https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module1/task1.1/Screenshots/List%20config.pngK" width="100" height="300"/>
 
 
