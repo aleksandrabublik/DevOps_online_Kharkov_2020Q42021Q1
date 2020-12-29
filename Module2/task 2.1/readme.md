@@ -65,37 +65,39 @@
 
 ![alt text](https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module2/task%202.1/VBjpg.jpg)
 
-2. Configuration of virtual machines
+ 2. Configuration of virtual machines
+ 
 	2.1 Explore VM configuration options (general settings, system settings, display, storage, audio, network, etc.).
 	2.2 Configure the USB to connect the USB ports of the host machine to the VM.
 	2.3 Configure a shared folder to exchange data between the virtual machine and the host.
 	2.4 Configure different network modes for VM1, VM2. Check the connection between VM1, VM2, Host, Internet for different network modes. You can use the ping command to do this. Make a table of possible connections.
 
-3. Work with CLI through VBoxManage.
-3.1 Run the cmd.exe command line.
+ 3. Work with CLI through VBoxManage.
+ 
+	3.1 Run the cmd.exe command line.
 	-I downloaded a new image (MX-19.3_x64) in the format iso
-3.2 Examine the purpose and execute the basic commands of VBoxManage list, showvminfo, createvm, startvm, modifyvm, clonevm, snapshot, controlvm [1, ch.8].
+	3.2 Examine the purpose and execute the basic commands of VBoxManage list, showvminfo, createvm, startvm, modifyvm, clonevm, snapshot, controlvm [1, ch.8].
 
-- VBoxManage list
+	- VBoxManage list
 ![alt text](https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module2/task%202.1/VBoxManage_list.jpg)
 
-- showvminfo
+	- showvminfo
 	-VM1
-	![alt text](https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module2/task%202.1/Showinfo_vm1.jpg)
+![alt text](https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module2/task%202.1/Showinfo_vm1.jpg)
 	-VM2
-	![alt text](https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module2/task%202.1/showinfo%202.jpg)
-	![alt text](https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module2/task%202.1/showinfo2.1.jpg)
+![alt text](https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module2/task%202.1/showinfo%202.jpg)
+![alt text](https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module2/task%202.1/showinfo2.1.jpg)
 
-- Createvm
+	- Createvm
 ![alt text](https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module2/task%202.1/Createvm.jpg)
 
-- Modify and startvm
+	- Modify and startvm
 ![alt text](https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module2/task%202.1/modify%20and%20startvm.jpg)
 
-- Clone and snapshot
+	- Clone and snapshot
 ![alt text](https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module2/task%202.1/clone%20and%20snapshot.jpg)
 
-- Controlvm
+	- Controlvm
 ![alt text](https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module2/task%202.1/controlvm.jpg)
 
 # PART 3. WORK WITH VAGRANT
