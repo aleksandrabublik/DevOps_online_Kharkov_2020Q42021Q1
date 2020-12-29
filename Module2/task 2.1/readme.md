@@ -73,6 +73,22 @@
 	2.2 Configure the USB to connect the USB ports of the host machine to the VM.
 	2.3 Configure a shared folder to exchange data between the virtual machine and the host.
 	2.4 Configure different network modes for VM1, VM2. Check the connection between VM1, VM2, Host, Internet for different network modes. You can use the ping command to do this. Make a table of possible connections.
+	
+	Mode   | VM->Host  |  VM<-Host   | VM!<->VM2  
+	-------|---------  |  ---------  | ----------
+	Nat  | + |   | -  
+	Host-only | + | + | +
+	Bridged | + | + | + 
+	Internal | - | - | +
+	
+- Host only (example)
+IP Host -> 192.168.56.1
+IP VM1 -> 192.168.56.102
+IP VM2 -> 192.168.56.101
+
+![alt text](https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module2/task%202.1/ping%20Host.jpg)
+![alt text](https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module2/task%202.1/ping%20VM1.jpg)
+![alt text](https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module2/task%202.1/ping%20VM2.jpg)
 
  3. Work with CLI through VBoxManage.
  
