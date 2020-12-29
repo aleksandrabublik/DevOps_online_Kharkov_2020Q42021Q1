@@ -76,6 +76,7 @@
 	command -> vagrant init hashicorp/precise64
 4. Run vagrant up and watch for messages during VM boot and startup.
 	command -> vagrant up 
+![alt text](https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module2/task%202.1/Vagrant%20up%20and%20init.jpg)
 5. Connect to the VM using the program PuTTY (can be downloaded from [6]), using SSH, IP address and port listed above (127.0.0.1:2222). By default, login - vagrant and password are also vagrant
 ![alt text](https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module2/task%202.1/Putty.jpg)
 
