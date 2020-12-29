@@ -70,13 +70,13 @@
 
 # PART 3. WORK WITH VAGRANT
 
-1. Download the required version of Vagrant according to the instructions [5] and according to the host operating system (OS) installed on the student's workplace. For Windows, the file may be called, for example, vagrant_2.2.0_x86_64.msi. Install Vagrant. Check the path to Vagrant bin in the Path variable (My computer -> Properties -> Advanced system settings -> Advanced -> Environment Variables).
+1. Download the required version of Vagrant according to the instructions and according to the host operating system (OS) installed on the workplace. For Windows, the file may be called, for example, vagrant_2.2.0_x86_64.msi. Install Vagrant. Check the path to Vagrant bin in the Path variable.
 2. Run the powershell. Create a folder "student name" (in English). In this example, create a folder vagrant_test. Next, go to the folder.
+Command -> mkdir bublyk_oleksandra_vagrant
 3. Initialize the environment with the default Vagrant box: 
 	command -> vagrant init hashicorp/precise64
 4. Run vagrant up and watch for messages during VM boot and startup.
 	command -> vagrant up 
-![alt text](https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module2/task%202.1/Vagrant%20up%20and%20init.jpg)
 5. Connect to the VM using the program PuTTY (can be downloaded from [6]), using SSH, IP address and port listed above (127.0.0.1:2222). By default, login - vagrant and password are also vagrant
 ![alt text](https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module2/task%202.1/Putty.jpg)
 
