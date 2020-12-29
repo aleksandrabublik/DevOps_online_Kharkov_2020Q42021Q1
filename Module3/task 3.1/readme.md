@@ -42,7 +42,10 @@
 ![alt text](https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module3/task%203.1/Screenshots_mysql/OPERATOR%20ORDER%20BY.png)
 
 ## 7. Execute other different SQL queries DDL, DML, DCL.
-
+- DML
+![alt text](https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module3/task%203.1/Screenshots_mysql/DML_update.png)
+- DDL
+![alt text]( https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module3/task%203.1/Screenshots_mysql/DDL_create.png)
 ## 8. Create a database of new users with different privileges. Connect to the database as a new user and verify that the privileges allow or deny certain actions.
 ![alt text](https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module3/task%203.1/Screenshots_mysql/cREATE%20USER%20WITH%20OTHER%20PRIVILEGES.png)
 - Show privileges
