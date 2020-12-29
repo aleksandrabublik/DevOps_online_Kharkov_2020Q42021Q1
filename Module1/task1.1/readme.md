@@ -6,7 +6,7 @@
 ![alt text](https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module1/task1.1/Screenshots/List%20config.png)
 * Create new private repo on GitHub. Repo name: DevOps_online__ Example: DevOps_online_Dnipro_2020Q42021Q1 
 
-![Image alt] (https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module1/task1.1/Screenshots/Private%20rerository.png)
+![Image alt] (https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module1/task1.1/Screenshots/Private%20rerository.png | width=500)
 ![alt text](https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module1/task1.1/Screenshots/List%20config.png)
 
 * Create develop branch and checkout on it. Create index.html empty file. Commit. 
