@@ -8,11 +8,9 @@
 
 
 ## + Create a snapshot of your instance to keep as a backup.
- https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module2/task%202.2/Screenshots/AWS/Snapshot.png)
 ![alt text](https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module2/task%202.2/Screenshots/AWS/Snapshot.png)
 
 
- https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module2/task%202.2/Screenshots/AWS/Snapshot2.png)
 ![alt text](https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module2/task%202.2/Screenshots/AWS/Snapshot2.png)
 
 
