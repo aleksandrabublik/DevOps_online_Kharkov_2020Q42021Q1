@@ -58,9 +58,12 @@
 1.4 Get acquainted with the possibilities of VM1 control - start, stop, reboot, save state, use Host key and keyboard shortcuts, mouse capture, etc.
 1.5 Clone an existing VM1 by creating a VM2.
 1.6 Create a group of two VM: VM1, VM2 and learn the functions related to groups.
+![alt text](https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module2/task%202.1/VM_Group.jpg)
+
 1.7 For VM1, changing its state, take several different snapshots, forming a branched tree of snapshots.
 1.8 Export VM1. Save the *.ova file to disk. Import VM from *.ova file.
 
+![alt text](https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module2/task%202.1/VBjpg.jpg)
 2. Configuration of virtual machines
 2.1 Explore VM configuration options (general settings, system settings, display, storage, audio, network, etc.).
 2.2 Configure the USB to connect the USB ports of the host machine to the VM.
@@ -70,6 +73,28 @@
 3. Work with CLI through VBoxManage.
 3.1 Run the cmd.exe command line.
 3.2 Examine the purpose and execute the basic commands of VBoxManage list, showvminfo, createvm, startvm, modifyvm, clonevm, snapshot, controlvm [1, ch.8].
+
+- VBoxManage list
+![alt text](https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module2/task%202.1/VBoxManage_list.jpg)
+
+- showvminfo
+	-VM1
+	![alt text](https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module2/task%202.1/Showinfo_vm1.jpg)
+	-VM2
+	![alt text](https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module2/task%202.1/showinfo%202.jpg)
+	![alt text](https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module2/task%202.1/showinfo2.1.jpg)
+
+- Createvm
+![alt text](https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module2/task%202.1/Createvm.jpg)
+
+- Modify and startvm
+![alt text](https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module2/task%202.1/modify%20and%20startvm.jpg)
+
+- Clone and snapshot
+![alt text](https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module2/task%202.1/clone%20and%20snapshot.jpg)
+
+- Controlvm
+![alt text](https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module2/task%202.1/controlvm.jpg)
 
 # PART 3. WORK WITH VAGRANT
 
