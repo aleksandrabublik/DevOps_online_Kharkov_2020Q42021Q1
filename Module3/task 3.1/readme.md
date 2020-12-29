@@ -1,7 +1,7 @@
 PART 1
 1. Downloaded the MySQL server from the provided link in the task3.1 doc
 2. Install MySQL server on VM.
-![Image alt] (https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module3/task3.1/Screenshots_mysql/Install.png)
+![Image alt] (https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module3/task 3.1/Screenshots_mysql/Install.png)
 ![alt text](https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module3/Screenshots_mysql/Install.png)
 
 ![Image alt] (https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module3/Screenshots_mysql/Install2.png)
