@@ -53,7 +53,9 @@
 
 13. Для даної топології повторити пункти 3-9. Проаналізувати відмінності в роботі мережі Топології 1 і Топології 3.
 Switch пересылает пакеты куда указал. А концентратор рассылает пакеты всем, таким образом загружает сеть.
-
+![alt text](https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module4/task4.1/12_11_Model%20OSI.png)
+![alt text](https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module4/task4.1/12_7_Cisco.png)
+![alt text](https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module4/task4.1/12_Model%20OSI.png)
 14. Розширити проект до такого вигляду (рис. 7). У нього входять: 8 ПК типу PC-PT, 2 комутатори (Switch). Кожен комп'ютер повинен бути з'єднаний з комутатором за допомогою крученої пари (Copper Straight-through), комутатори між собою з'єднуються за допомогою кросового кабелю (Copper Cross-over).
 
 15. За необхідністю додати додаткові порти на комутатори. Для цього необхідно у вкладці Physical / MODULES кожного з них перетягнути доступний порт Ethernet в порожнє гніздо, попередньо вимкнувши комутатор за допомогою кнопки вимкнення.
