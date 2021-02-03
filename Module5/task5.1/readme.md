@@ -82,5 +82,12 @@ Task1. Part2
 ![alt text (https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module5/task5.1/part2_1%20%D0%BF%D0%BE%D0%B4%D0%BA%D0%B0%D1%82%D0%B0%D0%BB%D0%BE%D0%B3%D0%B8%20%D0%B2%D1%82%D0%BE%D1%80%D0%BE%D0%B3%D0%BE%20%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F.png)
 
 2) What command can be used to determine the type of file (for example, text or binary)? Give an example.
+You can determine the file type using the command -> file
 ![alt text](https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module5/task5.1/part2_2.png)
+
+3) Master the skills of navigating the file system using relative and absolute paths. How can you go back to your home directory from anywhere in the filesystem?
+ You can return to the home directory from anywhere in the file system with the command cd without parameters.
+ 
+4) Become familiar with the various options for the ls command. Give examples of listing directories using different keys. Explain the information displayed on the terminal using the -l and -a switches.
+![alt text]()
 
