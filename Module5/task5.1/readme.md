@@ -89,5 +89,59 @@ You can determine the file type using the command -> file
  You can return to the home directory from anywhere in the file system with the command cd without parameters.
  
 4) Become familiar with the various options for the ls command. Give examples of listing directories using different keys. Explain the information displayed on the terminal using the -l and -a switches.
-![alt text]()
 
+ command ls -al -> this command shows file creation date, size, owner, permission
+![alt text](https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module5/task5.1/part2_4%20ls2.png)
+
+ сommand ls / -> look at the contents of the root folder
+![alt text](https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module5/task5.1/part2_4%20ls2.png)
+
+ сommand ls -a -> displays all files, including hidden ones (these are those in front of the name with a dot)
+ ![alt text](https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module5/task5.1/part2_4%20ls%20apng.png)
+ 
+  command ls -l -> displays a detailed list, which will display the owner, group, creation date, size and other parameters
+ ![alt text](https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module5/task5.1/part2_4%20ls%20l.png)
+ 
+ 5) Perform the following sequence of operations: - create a subdirectory in the home directory; - in this subdirectory create a file containing information about directories located in the root directory (using I/O redirection operations);
+  ![alt text](https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module5/task5.1/part2_5.png)
+  
+  - view the created file;
+   ![alt text](https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module5/task5.1/part2_5%20view%20filepng.png) 
+   
+  - copy the created file to your home directory using relative and absolute addressing.
+   ![alt text](https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module5/task5.1/part2_5%20cp.png)
+   
+  - delete the previously created subdirectory with the file requesting removal;
+  - delete the file copied to the home directory.
+  ![alt text](https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module5/task5.1/part2_5%20rm.png)
+  
+  6) Perform the following sequence of operations:
+  - create a subdirectory test in the home directory;
+  - copy the .bash_history file to this directory while changing its name to labwork2;
+   ![alt text](https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module5/task5.1/part2_6.png)
+  - create a hard and soft link to the labwork2 file in the test subdirectory;
+   ![alt text](https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module5/task5.1/part2_6%20%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B6%D0%B5%D1%81%D1%82%D0%BA%D0%BE%D0%B9%20%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8.png)
+     ![alt text](https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module5/task5.1/part2_6%20%D1%81%D0%BE%D0%B7%D0%B4%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BC%D1%8F%D0%B3%D0%BA%D0%BE%D0%B9%20%D1%81%D1%81%D1%8B%D0%BB%D0%BA%D0%B8%20%D0%B8%20%D0%B8%20%D0%B2%D0%B8%D0%BC.png)
+  - how to define soft and hard link, what do these concepts;
+   The soft link is highlighted in blue. A soft link or symbolic link creates a pointer to the file name, not to the data area, essentially a shortcut.
+   A hard link creates another record in the file system that refers to the same data area on disk as the original file.
+  - change the data by opening a symbolic link. What changes will happen and why
+    I opened a link, but the file that the link refers to has changed
+  - rename the hard link file to hard_lnk_labwork2;
+  - rename the soft link file to symb_lnk_labwork2 file;
+   ![alt text](https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module5/task5.1/part2_6%20%D0%BF%D0%B5%D1%80%D0%B5%D0%B8%D0%BC%D0%B5%D0%BD%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5.png)
+  - then delete the labwork2. What changes have occurred and why? When deleted, the link remained and it is invalid
+  ![alt text](https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module5/task5.1/part2_6%20delete.png)
+  
+  7) Using the locate utility, find all files that contain the squid and traceroute sequence.
+   Using the locate utility:
+  ![alt text](https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module5/task5.1/part2_7.png)
+  
+  8) Determine which partitions are mounted in the system, as well as the types of these partitions.
+  ![alt text](https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module5/task5.1/part2_8png.png)
+  
+  9) Count the number of lines containing a given sequence of characters in a given file.
+  ![alt text](https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module5/task5.1/part2_9.png)
+  
+  
+  
