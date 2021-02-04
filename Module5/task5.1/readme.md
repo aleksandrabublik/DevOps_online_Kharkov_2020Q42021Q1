@@ -141,7 +141,26 @@ You can determine the file type using the command -> file
   ![alt text](https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module5/task5.1/part2_8png.png)
   
   9) Count the number of lines containing a given sequence of characters in a given file.
+  
   ![alt text](https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module5/task5.1/part2_9.png)
   
+  10) Using the find command, find all files in the /etc directory containing the host character sequence
   
+   ![alt text](https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module5/task5.1/part2_10.png)
   
+  11) List all objects in /etc that contain the ss character sequence. How can I duplicate a similar command using a bunch of grep?
+    ![alt text](https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module5/task5.1/part2_11.png)
+    
+  12) Organize a screen-by-screen print of the contents of the /etc directory. Hint: You must use stream redirection operations.
+  Сommand: ls -al /etc | less
+   ![alt text](https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module5/task5.1/part2_12%20.png)
+   ![alt text](https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module5/task5.1/part2_12%20command.png)
+   
+   13) What are the types of devices and how to determine the type of device? Give examples.
+   Device types are: Symbolic and Block.
+   
+   14) How to determine the type of file in the system, what types of files are there?
+   ![alt text](https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module5/task5.1/part2_14.png)
+  
+  15) * List the first 5 directory files that were recently accessed in the /etc directory.
+   ![alt text](https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module5/task5.1/part2_15.png)
