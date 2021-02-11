@@ -113,13 +113,16 @@ Rights are set separately for the file owner (u), the owner's group (g) and othe
 ![alt text](https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module5/task5.2/14_6.png)
 
 15) What is an example of octal representation of access rights? Describe the umask command.
+
    Umask - through a bitwise NOT, applies a mask \ prohibits setting the bit.
    Umask 0 - everything can be changed
    Umask 777 - prohibited
    
 16) Give definitions of sticky bits and mechanism of identifier substitution. Give an example of files and directories with these attributes.
+
    Sticky bit - installed on a directory, while in this directory only its owner, or the owner of the directory, or root can delete a file. The directory is highlighted in the    ls output, and the file command displays that it is a sticky directory. An example of such a directory is / tmp.
    With the mechanism of identifier substitution, if SetUID or SetGID is set on the file, the file will be launched on behalf of its owner or group, respectively.
  
  17) What file attributes should be present in the command script?
+ 
  Must have read and execute permissions.
