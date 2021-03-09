@@ -143,7 +143,40 @@ The priority of a process determines how intensively this process will use CPU t
   ![alt text](https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module5/task5.3/17.png)
   
   
+  `Part2
+ 
+ 1. Check the implementability of the most frequently used OPENSSH commands in the MS Windows operating system. (Description of the expected result of the commands + screenshots: command – result should be presented)
+ 
+ Checked the implementability of the most frequently used OPENSSH commands in the MS Windows operating system. Windows 10 ssh client is installed by default
+ 
+    ssh It should output list of available options, or if provided address, port, identity, connect to remote host and show it's initial greeting for user logged in Util works as in Linux, however sshd_config should be modified by adding this setting.
+  ![alt text](https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module5/task5.3/part2_1_1.png)
   
+    Then I accessed our ssh current server on vm (over local network and virtualbox nat)
+    ssh-keygen This util works as in Linux: I mentioned type of key algorithm used (RSA) and path to identity file to store new key. I've copied generated key manually to .authorized_keys file on server.
+    scp This copy util also works as in Linux: it uses the same options and copies file to remote system over SSH connection.
+  ![alt text](https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module5/task5.3/part2_1_2.png)
+ 
+  ![alt text](https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module5/task5.3/part2_1_3.png)
   
+2. Implement basic SSH settings to increase the security of the client-server connection (at least 
+Implemented basic SSH settings to increase the security of the client-server connection (edited /etc/ssh_config.swp and provided following values for next params):
+
+![alt text](https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module5/task5.3/part2_2.png)
+3. List the options for choosing keys for encryption in SSH. Implement 3 of them.
+
+Here are options for choosing keys for encryption in SSH: ssh-keygen [-q] [-b bits] [-t dsa | ecdsa | ed25519 | rsa | rsa1]
+DSA, ECDSA, ED25519, RSA, RSA1 are available for implementation. Implemented DSA, RSA, ED25519 options
+
+ ![alt text](https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module5/task5.3/part2_3_1.png)
+  ![alt text](https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module5/task5.3/part2_3_2.png)
+
+4. Implement port forwarding for the SSH client from the host machine to the guest Linux virtual machine behind NAT.
+![alt text](https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module5/task5.3/part2_4_rule.png)
+
+![alt text](https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module5/task5.3/part2_4.png)
+
+5*. Intercept (capture) traffic (tcpdump, wireshark) while authorizing the remote client on the server using ssh, telnet, rlogin. Analyze the result.
   
-  
+SSH is more efficient and secure then telnet, rlogin, because of encryption and performance.
+
