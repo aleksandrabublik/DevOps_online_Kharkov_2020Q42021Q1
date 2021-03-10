@@ -12,7 +12,9 @@ Part1
   
   2. Examine the pstree command. Make output (highlight) the chain (ancestors) of the current process.
   
-  ![alt text]()
+  ![alt text](https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module5/task5.3/2.1.png)
+  ![alt text](https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module5/task5.3/2.2.png)
+  ![alt text](https://github.com/aleksandrabublik/DevOps_online_Kharkov_2020Q42021Q1/blob/main/Module5/task5.3/2.3.png)
   
   3. What is a proc file system?
   The / proc filesystem stores information about running processes. There are subdirectories in / proc with names corresponding 
